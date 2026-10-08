@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=Amirhossein%20Akbari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%C2%B7%20Retrieval%20%C2%B7%20Knowledge%20Graphs%20%C2%B7%20Applied%20LLMs&descSize=18&descAlignY=58" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F2027,50:203A43,100:2C5364&text=%3Ctspan%20fill=%22%2338BDF8%22%3EA%3C/tspan%3Emir%3Ctspan%20fill=%22%2338BDF8%22%3EH%3C/tspan%3Eossei%3Ctspan%20fill=%22%2338BDF8%22%3EN%3C/tspan%3E%20Akbari&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%C2%B7%20Retrieval%20%C2%B7%20Knowledge%20Graphs%20%C2%B7%20Applied%20LLMs&descSize=18&descAlignY=58" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=600&lines=Retrieval+%26+RAG+systems;Knowledge+graphs+%26+entity+resolution;Applied+LLMs+in+production;Learning-to-Rank+%26+recommenders" alt="focus"/>
 
